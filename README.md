@@ -16,4 +16,4 @@ Maven (для сборки проекта),
 Tomcat 9 (для запуска приложения),
 Spring,
 Spring Data JPA,
-MySQL (база данных (БД)).
+MySQL (база данных).
