@@ -1,4 +1,4 @@
-# javarush_test_task
+# javarush_testtask
 Задание на стажировку от JavaRush.
 
 CRUD приложение, которое ведет учет космических кораблей в 3019 году, 
